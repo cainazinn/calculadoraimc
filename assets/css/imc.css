@@ -1,0 +1,26 @@
+body{
+    background-image: linear-gradient(rgb(83, 242, 83), rgb(7, 204, 197));
+    color: white;
+    text-align: center;
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    justify-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.corpo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2px;
+    justify-content: center;
+    background-color:black;
+    height: 600px;
+    width: 600px;
+    border-radius: 50px;
+    justify-content: center;
+    border-bottom: #4ad3d8;
+}
